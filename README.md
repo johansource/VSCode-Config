@@ -119,7 +119,7 @@ This repository contains customised **Visual Studio Code** settings and extensio
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/vscode-config.git
+   git clone https://github.com/johansource/vscode-config.git
    ```
 
 2. **General Setup**:
