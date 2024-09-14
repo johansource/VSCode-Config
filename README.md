@@ -34,6 +34,16 @@ This repository contains customised **Visual Studio Code** settings and extensio
 
     - **One Monokai 80s (axiomaticstudios.one-monokai-80s)**: A retro-inspired color theme that adds a vibrant and fun look to your editor, based on the popular Monokai theme.
 
+- **Docker/**
+
+  - Contains `extensions.json` with extension recommendations focused on Docker and containerized development. These extensions provide tools for managing Docker containers, working with YAML files, and using containers for development environments:
+
+    - **Docker (ms-azuretools.vscode-docker)**: Offers full support for working with **Docker** in VS Code, including managing containers, images, registries, and Docker Compose files. It simplifies building, running, and debugging containerized applications.
+
+    - **Remote - Containers (ms-vscode-remote.remote-containers)**: Enables you to open any folder inside a **Docker container** as a development environment, making it easy to work within isolated and reproducible development setups.
+
+    - **YAML (redhat.vscode-yaml)**: Provides powerful editing features for **YAML** files, such as autocompletion, validation, and linting, which are essential when working with Docker Compose files or Kubernetes configurations.
+
 - **JavaScript/**
 
   - Contains `extensions.json` with extension recommendations tailored for JavaScript development, particularly with modern frameworks like React, Vite, and Tailwind CSS, along with GraphQL support:
