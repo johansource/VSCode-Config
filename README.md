@@ -34,6 +34,22 @@ This repository contains customised **Visual Studio Code** settings and extensio
 
     - **One Monokai 80s (axiomaticstudios.one-monokai-80s)**: A retro-inspired color theme that adds a vibrant and fun look to your editor, based on the popular Monokai theme.
 
+- **JavaScript/**
+
+  - Contains `extensions.json` with extension recommendations tailored for JavaScript development, particularly with modern frameworks like React, Vite, and Tailwind CSS, along with GraphQL support:
+
+    - **Vite (antfu.vite)**: Provides commands and tools to integrate **Vite** into your JavaScript projects, improving the build speed and overall development workflow with Vite-powered applications.
+
+    - **Tailwind CSS IntelliSense (bradlc.vscode-tailwindcss)**: Adds autocompletion, IntelliSense, and linting for **Tailwind CSS**, making it easier to work with utility-first CSS in your JavaScript and React projects.
+
+    - **ESLint (dbaeumer.vscode-eslint)**: A popular linter for JavaScript, ensuring your code follows best practices and identifying potential errors in both JavaScript and TypeScript files.
+
+    - **ES7+ React/Redux/React-Native Snippets (dsznajder.es7-react-js-snippets)**: Provides a wide array of **React** and **Redux** code snippets, greatly speeding up the development process for React applications by offering shortcuts for common patterns.
+
+    - **GraphQL (graphql.vscode-graphql)**: Offers comprehensive language support for **GraphQL**, including syntax highlighting, validation, and autocomplete for your GraphQL queries and schemas.
+
+    - **GraphQL Syntax Highlighting (graphql.vscode-graphql-syntax)**: Adds detailed syntax highlighting for **GraphQL** files, making it easier to write and read GraphQL queries in your JavaScript projects.
+
 ## How to Use
 
 1. **Clone the repository**:
