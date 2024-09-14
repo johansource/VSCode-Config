@@ -60,6 +60,20 @@ This repository contains customised **Visual Studio Code** settings and extensio
 
     - **GraphQL Syntax Highlighting (graphql.vscode-graphql-syntax)**: Adds detailed syntax highlighting for **GraphQL** files, making it easier to write and read GraphQL queries in your JavaScript projects.
 
+- **Unity/**
+
+  - Contains `extensions.json` with extension recommendations specific to Unity development. These extensions provide tools for C# development, Unity-specific code snippets, shader editing, and Unity project integration:
+
+    - **Unity Code Snippets (kleber-swf.unity-code-snippets)**: Offers a collection of useful Unity-specific code snippets to speed up common tasks in Unity development, such as creating MonoBehaviour scripts or event functions.
+
+    - **C# (ms-dotnettools.csharp)**: Provides advanced IntelliSense, debugging, and refactoring tools for C# development, essential for working with Unity’s primary scripting language.
+
+    - **.NET Install Tool for Extension Authors (ms-dotnettools.vscode-dotnet-runtime)**: Ensures the proper .NET runtime environment for running and debugging Unity C# scripts inside VS Code.
+
+    - **Shader languages support for VS Code (slevesque.shader)**: Adds syntax highlighting and IntelliSense for shader languages, including HLSL and GLSL, which are used in Unity for custom rendering.
+
+    - **Visual Studio Tools for Unity (visualstudiotoolsforunity.vstuc)**: Provides enhanced debugging and project synchronization between Unity and VS Code, allowing for a smoother Unity development experience.
+
 ## How to Use
 
 1. **Clone the repository**:
