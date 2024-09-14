@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+      "aaron-bond.better-comments",
+      "adpyke.codesnap",
+      "alefragnani.bookmarks",
+      "eamodio.gitlens",
+      "esbenp.prettier-vscode",
+      "formulahendry.code-runner",
+      "gruntfuggly.todo-tree",
+      "johnpapa.vscode-peacock",
+      "pranaygp.vscode-css-peek",
+      "usernamehw.errorlens",
+      "wix.vscode-import-cost",
+      // Themes & Icons
+      "pkief.material-icon-theme",
+      "axiomaticstudios.one-monokai-80s"
+    ]
+  }
+  
