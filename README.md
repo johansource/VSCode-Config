@@ -74,6 +74,18 @@ This repository contains customised **Visual Studio Code** settings and extensio
 
     - **Visual Studio Tools for Unity (visualstudiotoolsforunity.vstuc)**: Provides enhanced debugging and project synchronization between Unity and VS Code, allowing for a smoother Unity development experience.
 
+- **UnrealEngine/**
+
+  - Contains `extensions.json` with extension recommendations specific to Unreal Engine development. These extensions provide the necessary tools for C++ development, CMake integration, shader editing, and code formatting according to Unreal Engine's standards:
+
+    - **C/C++ (ms-vscode.cpptools)**: Provides C++ IntelliSense, debugging, and basic code navigation, essential for Unreal Engine C++ development.
+
+    - **CMake Tools (ms-vscode.cmake-tools)**: Facilitates working with CMake projects in Unreal Engine, including project configuration, building, and debugging.
+
+    - **Shader languages support for VS Code (slevesque.shader)**: Adds syntax highlighting and IntelliSense for shader languages, including HLSL and GLSL, which are used in Unreal Engine for rendering.
+
+    - **Clang-Format (xaver.clang-format)**: Ensures that your C++ code follows Unreal Engine's coding style guidelines, improving consistency and readability across the project.
+
 ## How to Use
 
 1. **Clone the repository**:
