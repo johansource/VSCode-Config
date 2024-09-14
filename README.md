@@ -60,6 +60,20 @@ This repository contains customised **Visual Studio Code** settings and extensio
 
     - **GraphQL Syntax Highlighting (graphql.vscode-graphql-syntax)**: Adds detailed syntax highlighting for **GraphQL** files, making it easier to write and read GraphQL queries in your JavaScript projects.
 
+- **Python/**
+
+  - Contains `extensions.json` with extension recommendations tailored for Python development. These extensions provide comprehensive Python environment management, debugging, and IntelliSense capabilities to streamline Python workflows:
+
+    - **Python Environment Manager (donjayamanne.python-environment-manager)**: Helps manage Python environments (virtual environments, conda, etc.) directly within VS Code, making it easy to switch between environments and ensure dependencies are correctly handled.
+
+    - **Debugpy (ms-python.debugpy)**: Provides powerful debugging tools for Python applications, allowing breakpoints, variable inspection, and step-by-step execution to help diagnose issues efficiently.
+
+    - **Pylint (ms-python.pylint)**: A popular linter for Python, ensuring that your code follows best practices and adheres to Python’s style guide (PEP 8) by identifying errors, potential issues, and style violations.
+
+    - **Python (ms-python.python)**: The core extension for Python development, offering IntelliSense, linting, and powerful code navigation features for working with Python projects.
+
+    - **Pylance (ms-python.vscode-pylance)**: Enhances Python IntelliSense with faster and more accurate code completions, type checking, and overall improved language server performance.
+
 - **Unity/**
 
   - Contains `extensions.json` with extension recommendations specific to Unity development. These extensions provide tools for C# development, Unity-specific code snippets, shader editing, and Unity project integration:
