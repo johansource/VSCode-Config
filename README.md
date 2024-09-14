@@ -44,6 +44,20 @@ This repository contains customised **Visual Studio Code** settings and extensio
 
     - **YAML (redhat.vscode-yaml)**: Provides powerful editing features for **YAML** files, such as autocompletion, validation, and linting, which are essential when working with Docker Compose files or Kubernetes configurations.
 
+- **Flutter/**
+
+  - Contains `extensions.json` with extension recommendations tailored for Flutter and Dart development. These extensions provide code snippets, project management tools, and enhanced Flutter workflow support:
+
+    - **Flutter Snippets (alexisvt.flutter-snippets)**: Provides a collection of code snippets for **Flutter** to speed up common Flutter tasks, such as creating widgets, layouts, and state management snippets.
+
+    - **Dart (dart-code.dart-code)**: Essential for **Dart** development, this extension provides IntelliSense, debugging, and other tools specifically for Dart programming, which powers Flutter applications.
+
+    - **Flutter (dart-code.flutter)**: Adds full **Flutter** development support in VS Code, including the ability to run, debug, and deploy Flutter apps, as well as Flutter-specific IntelliSense and code navigation.
+
+    - **Pubspec Assist (jeroen-meijer.pubspec-assist)**: Helps manage dependencies in your `pubspec.yaml` file by providing autocompletion and assisting in adding or removing packages from the file.
+
+    - **Flutter Tree (marcelovelasquez.flutter-tree)**: Offers a tree view for the Flutter widget hierarchy, allowing you to visually navigate through widget trees and better manage complex UI structures in Flutter projects.
+
 - **JavaScript/**
 
   - Contains `extensions.json` with extension recommendations tailored for JavaScript development, particularly with modern frameworks like React, Vite, and Tailwind CSS, along with GraphQL support:
